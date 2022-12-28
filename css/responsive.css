@@ -1,0 +1,69 @@
+@media(max-width:991px){
+    .rooms_righttext p {
+        font-size: 14px;
+    }
+}
+@media(max-width:768px){
+    .summer h1 {
+        font-size: 25px;
+    }
+    .time span {
+        font-size: 20px;
+        margin-right: 5px;
+    }
+    .slider_text h1{
+        font-size: 3rem;
+    }
+    .about_siteimg {
+        left:52%;
+    }
+    .rooms_righttext {
+        margin-left: 33px;
+        position: relative;
+    }
+    .room_heading h2 {
+        font-size: 30px;
+    }
+    .rooms_righttext h2 {
+        font-size: 30px;
+    }
+    .fotter_text1 p {
+        font-size: 14px;
+    }
+    .bottom_text p {
+        font-size: 14px;
+    }
+    .about_img a i {
+        font-size: 40px;
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        
+    }
+}
+@media(max-width:425px){
+    .coundown {
+        margin-top: 28px;
+    }
+    .summer p {
+        margin-bottom: 0;
+    }
+    .slider_text h1{
+        font-size: 2rem;
+    }
+}
+@media(max-width:320px){
+    .time span {
+        font-size: 15px;
+        margin-right: 3px;
+    }
+    .summer p {
+        font-size: 14px;
+    }
+    .rooms_righttext a, .summer a{
+        display: inline-block;
+    }
+    .summer h1 {
+        font-size: 22px;
+    }
+}
